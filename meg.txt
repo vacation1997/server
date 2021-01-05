@@ -1,0 +1,4 @@
+/usr/lib/python3/dist-packages/pip
+user_name=123&password=123
+user_name=123&password=123
+user_name=123&password=123
